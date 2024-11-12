@@ -23,3 +23,10 @@ Aplikasi Perhitungan Diskon<br>
 - Pengguna juga dapat memasukkan kupon diskon tambahan.<br>
 - Ketika button diklik, harga yang dimasukkan, diskon yang dipilih, memasukka kode promo tambahan jika ada, maka hasilnya akan di tampilkan pada kolom harga akhir, harga akhir setelah memasukkan diskon, dan penghematan.<br>
 - Semua perhitungan juga ditampilkan pada panel riwayat, memungkinkan pengguna untuk melihat lebih rinci dan ringkasan perhitungan sebelumnya.<br>
+
+# TAMPILAN APLIKASI YANG DIBUAT
+1. Tampilan awal aplikasi.<br>
+<img width="473" alt="aplikasi penghitung diskon" src="https://github.com/user-attachments/assets/0cd4df51-ca72-4361-8f93-e833fda86b5c"><br>
+2. Memasukkan harga 100000 dan memilih diskon 10%, lalu mengklik button hitung<br>
+<img width="475" alt="aplikasi penghitung diskon hasil" src="https://github.com/user-attachments/assets/12996780-4898-41d9-895b-2bbb7be66958"><br>
+

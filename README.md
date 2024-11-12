@@ -36,5 +36,8 @@ Aplikasi Perhitungan Diskon<br>
 3. Memasukkan harga 100000 dan memilih diskon 10%, lalu memasukkan kode "satu "untuk medapatkan diskon tambahan, lalu mengklik button hitung, maka juga akan mendapatkan pesan pemberitahuan diskon tambahan.<br>
 <img width="296" alt="aplikasi penghitung diskon hasil2" src="https://github.com/user-attachments/assets/fc187107-de51-431d-bc4c-c7e5e71c7087"><br>
 <img width="464" alt="aplikasi penghitung diskon hasil3" src="https://github.com/user-attachments/assets/578f5fc8-e28e-4b22-90d5-d914119fc191"><br>
-4. Memcoba memasukkan hurup di kolom input harga.<br>
+4. Memasukkan harga 500000 dan memilih diskon 5%, lalu memasukkan kode "dua "untuk medapatkan diskon tambahan, lalu mengklik button hitung, maka juga akan mendapatkan pesan pemberitahuan diskon tambahan.<br>
+<img width="299" alt="aplikasi penghitung diskon hasil5" src="https://github.com/user-attachments/assets/e057403c-7f2b-4ba7-b24d-72509dc7e7de"><br>
+<img width="465" alt="aplikasi penghitung diskon hasil6" src="https://github.com/user-attachments/assets/34c8f727-8e35-47bb-bdc6-ff7bacc6194a"><br>
+5. Memcoba memasukkan hurup di kolom input harga.<br>
 <img width="694" alt="aplikasi penghitung diskon hasil4" src="https://github.com/user-attachments/assets/dd1a23ad-32de-4fbe-bb7b-a121713e481a"><br>

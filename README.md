@@ -30,7 +30,7 @@ Aplikasi Perhitungan Diskon<br>
 
 # TAMPILAN APLIKASI YANG DIBUAT
 1. Tampilan awal aplikasi.<br>
-<img width="473" alt="aplikasi penghitung diskon" src="https://github.com/user-attachments/assets/0cd4df51-ca72-4361-8f93-e833fda86b5c"><br>
+<img width="471" alt="aplikasi penghitung diskon" src="https://github.com/user-attachments/assets/86412536-16c3-46c7-b64f-9f42cf473c18"><br>
 2. Memasukkan harga 100000 dan memilih diskon 10%, lalu mengklik button hitung.<br>
 <img width="475" alt="aplikasi penghitung diskon hasil" src="https://github.com/user-attachments/assets/12996780-4898-41d9-895b-2bbb7be66958"><br>
 3. Memasukkan harga 100000 dan memilih diskon 10%, lalu memasukkan kode "satu "untuk medapatkan diskon tambahan, lalu mengklik button hitung, maka setelah itu juga akan mendapatkan pesan pemberitahuan diskon tambahan.<br>

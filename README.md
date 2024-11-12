@@ -17,3 +17,9 @@ Aplikasi Perhitungan Diskon<br>
    - Tambahkan opsi untuk memasukkan kode kupon diskon tambahan.<br>
    - Tambahkan JSlider sebagai alternatif JComboBox untuk memilih persentase diskon.<br>
    - Sediakan riwayat perhitungan diskon yang telah dilakukan.<br>
+# FITUR PADA APLIKASI YANG DIBUAT
+- Pengguna dapat memasukkan harga barang yang ingin dihitung.<br>
+- Dapat memilih diskon melalui kotak pilihan (combo box) dan dapat juga memilih dari slider, yang mana keduanya saling terhubung.<br>
+- Pengguna juga dapat memasukkan kupon diskon tambahan.<br>
+- Ketika button diklik, harga yang dimasukkan, diskon yang dipilih, memasukka kode promo tambahan jika ada, maka hasilnya akan di tampilkan pada kolom harga akhir, harga akhir setelah memasukkan diskon, dan penghematan.<br>
+- Semua perhitungan juga ditampilkan pada panel riwayat, memungkinkan pengguna untuk melihat lebih rinci dan ringkasan perhitungan sebelumnya.<br>
